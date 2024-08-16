@@ -23,10 +23,11 @@ import java.util.Scanner;
 //}
 
 public class BitwiseAndOperator {
-    //attributes or operators
+    //attributes or oprands
 
     static int firstNumber =0;
     static int secondNumber =0;
+//behavior or methods
 
     private static void BitwiseAndOperator(){
         int result = firstNumber & secondNumber;
